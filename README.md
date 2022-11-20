@@ -13,6 +13,7 @@ https://drive.google.com/drive/folders/1I1kxtYMMUHfl3TGa8d9Hqdc58NrRk_Jo?usp=sha
 
 ## ANALYSIS RESULT
 •	Based on the analysis performed, USA is the best country for investment, and the top sectors to invest in within USA are biotech and software. This is because startups within USA raised higher amount.
+
 •	From the data, venture capital has raised the most money overall. Therefore, venture capital is the ideal type of funding round for investors.
 
 1.	African hospitality sector raised US$102 million in total funding.
