@@ -18,8 +18,8 @@ https://drive.google.com/drive/folders/1I1kxtYMMUHfl3TGa8d9Hqdc58NrRk_Jo?usp=sha
 
 1.	African hospitality sector raised US$102 million in total funding.
 2.	The level of degree do not affect funding round.
-    a)	The founder that has the most funding round is Bob Hebigs.
-    b)	Stanford University has the highest funding rounds, 75716 founders attended Stanford and 63192 has IPO.
+a)	The founder that has the most funding round is Bob Hebigs.
+b)	Stanford University has the highest funding rounds, 75716 founders attended Stanford and 63192 has IPO.
 3.	The region that has the most startups is unknown. However, SF Bay is the region with the second largest startups.
 4.	Software startup has the most funding round.
-  	a)	There are several founders within the software startup, the founder with the most funding round is Tyro Payments
+a)	There are several founders within the software startup, the founder with the most funding round is Tyro Payments
