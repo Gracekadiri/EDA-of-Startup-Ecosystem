@@ -26,7 +26,7 @@ https://drive.google.com/drive/folders/1I1kxtYMMUHfl3TGa8d9Hqdc58NrRk_Jo?usp=sha
 ## RECOMMENDATIONS
 ##### 1. Consider investing in the biotech and software sectors in the USA:
 Based on the data, biotech and software startups in the USA have raised the highest amount of funding. This indicates that these sectors have strong potential for growth and could be lucrative investment opportunities.
-# Explore venture capital investment opportunities: 
+##### 2. Explore venture capital investment opportunities: 
 Venture capital has raised the most money overall. This suggests that investing in venture capital funds or exploring startups backed by venture capital could be a viable investment strategy.
 
 Look into the African hospitality sector: The African hospitality sector has raised a significant amount of funding, totaling US$102 million. This sector might present untapped opportunities for investment, particularly in emerging markets within Africa.
