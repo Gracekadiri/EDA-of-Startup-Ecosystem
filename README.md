@@ -12,7 +12,6 @@ https://drive.google.com/drive/folders/1I1kxtYMMUHfl3TGa8d9Hqdc58NrRk_Jo?usp=sha
 ![STARTUP INVESTMENT EXPLORATION](https://user-images.githubusercontent.com/106782819/202910640-c0421e6a-5926-4264-b6d5-bef8386c9929.png)
 
 ## ANALYSIS RESULT
-•	Based on the analysis performed
 1. USA is the best country for investment. Startups within USA that raised the highest amount are biotech and software.
 2. Venture capital has raised the most money overall.
 3.	African hospitality sector raised US$102 million in total funding.
