@@ -24,8 +24,7 @@ https://drive.google.com/drive/folders/1I1kxtYMMUHfl3TGa8d9Hqdc58NrRk_Jo?usp=sha
 9.	There are several founders within the software startup, the founder with the most funding round is Tyro Payments
 
 ## RECOMMENDATIONS
-##### Consider investing in the biotech and software sectors in the USA:
-Based on the data, biotech and software startups in the USA have raised the highest amount of funding. This indicates that these sectors have strong potential for growth and could be lucrative investment opportunities.
+##### 1. Consider investing in the biotech and software sectors in the USA: Based on the data, biotech and software startups in the USA have raised the highest amount of funding. This indicates that these sectors have strong potential for growth and could be lucrative investment opportunities.
 # Explore venture capital investment opportunities: 
 Venture capital has raised the most money overall. This suggests that investing in venture capital funds or exploring startups backed by venture capital could be a viable investment strategy.
 
